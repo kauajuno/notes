@@ -1,0 +1,8 @@
+Arrays are arguably the simplest data structure. It is a collection of elements of the same data type that are stored in contiguous memory locations. Each element in the array has a number associated with it representing its location within the array called **index**, which can go from 0 (first element) to n-1 (last element, n being the size of the array).
+
+Some characteristics might differ in each programming language, in Java it is possible to access the length property through the array itself as it is an object, while in C/C++ the array is not an object but you can get the length through a simple calculation using the keyword `sizeof`.
+
+Even though the concept of an array itself is quite simple, there's a lot of things concerning the use of arrays that are relatively more complex, the most clear example of this is the sorting algorithms. Sorting is about a very simple problem: placing the elements inside of the array in order (usually ascending or descending based on some numerical value). There's a lot of ways of solving this problem. Some are simple, some are complex. Some are slow, some are quick. Some work with specific data types, other don't. There's a lot of things to be considered.
+
+There are pros and cons on using arrays. The main advantages are: it's a very simple structure, it's memory-efficient because of the contiguous storing and it's also very fast to get data from a known index. However, it has problems with its fixed size, insertion and deletion is very time consuming (because it might need to shift a lot of elements) and it might waste space if at some point the array is not entirely used.
+
