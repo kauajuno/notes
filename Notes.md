@@ -3,4 +3,6 @@
 
 - [[Data Structures]]
 - [[Algorithms]]
+- [[Web Development]]
+- [[Design]]
 - 

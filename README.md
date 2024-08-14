@@ -1,4 +1,4 @@
-By the time I'm writing this, I really don't know if anyone but me will ever read this, but as long as me from the future read this somewhere in time I'm happy enough. Hi! You can call me Etermentales.
+By the time I'm writing this, I really don't know if anyone but me will ever read this, but as long as me from the future read this somewhere in time I'm happy enough. Hi! You can call me Mentales.
 
 This introduction is one of the things I intend to never change, because I don't want the purpose of this to ever change. This whole set of files is a body of knowledge made from everything I'll learn and review from now on. I'm doing this for three main reasons.
 

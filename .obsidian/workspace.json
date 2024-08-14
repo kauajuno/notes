@@ -11,9 +11,17 @@
             "id": "c4c08f64d7420470",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b2f863973f12368",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked List.md",
+                "file": "Front-end.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,14 +31,27 @@
             "id": "7e523979d6c7e282",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/aggregation-arrow-example.png"
+                "file": "DS/Linked List/Linked List in Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95148c7f13f7def1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,7 +70,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -96,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/aggregation-arrow-example.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/aggregation-arrow-example.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "images/aggregation-arrow-example.png"
-              }
+              "state": {}
             }
           },
           {
@@ -171,29 +188,39 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7e523979d6c7e282",
+  "active": "c4c08f64d7420470",
   "lastOpenFiles": [
+    "API.md",
+    "Back-end.md",
+    "Front-end.md",
+    "DS/Linked List/Linked List in Java.md",
+    "README.md",
+    "Web Development.md",
+    "Design.md",
+    "Notes.md",
+    "Algorithms.md",
+    "Data Structures.md",
+    "Style Guide.md",
+    "UML Class Diagram Relationships.md",
+    "UML.md",
+    "Pointer.md",
+    "DS/Linked List/Linked List in C++.md",
+    "DS/Linked List",
+    "Algorithms",
+    "DS",
+    "Algorithms/Binary Search.md",
+    "UML Class Diagram.md",
+    "DS/Array.md",
+    "DS/Linked List.md",
+    "images/aggregation-arrow-example.png",
     "images/realization-arrow-example.png",
     "images/composition-arrow-example.png",
     "COBIT.md",
     "Enterprise Governance of Information and Related Technologies.md",
-    "Linked List in Java.md",
-    "Pointer.md",
-    "README.md",
-    "Linked List in C++.md",
-    "Linked List.md",
-    "Data Structures.md",
-    "UML Class Diagram.md",
     "images/association-arrow-example.png",
-    "images/aggregation-arrow-example.png",
     "images/generalization-arrow-example.png",
     "images/dependency-arrow-example.png",
-    "UML Class Diagram Relationships.md",
     "images",
-    "UML.md",
-    "Style Guide.md",
-    "EBoK.md",
-    "Introduction.md",
-    "Array.md"
+    "Introduction.md"
   ]
 }
