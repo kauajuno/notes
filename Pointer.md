@@ -2,7 +2,7 @@ Being honest, pointers are the single most headache-causing concepts in programm
 
 Not every language offer you the possibility to manipulate pointers, as they offer a lot of control over the memory management that can let to unsafe situations, such as memory access, memory leaks, etc. Some of the programming languages that let the programmer use pointers are C, C++, Go, C# and Rust.
 
-**A pointer is a variable that stores the memory address as its value.** At first it sounds pointless, but there's a lot of use to it once you start to deal with complex [[Data Structures|data structures]] and its operations.
+**A pointer is a variable that stores the memory address as its value.** At first it sounds pointless, but there's a lot of use to it once you start to deal with complex [[Data structures|data structures]] and its operations.
 
 ```cpp
 #include<iostream>

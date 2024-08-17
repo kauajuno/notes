@@ -1,8 +1,8 @@
 - [[README|Introduction]]
 - [[Style Guide]]
 
-- [[Data Structures]]
+- [[Data structures]]
 - [[Algorithms]]
-- [[Web Development]]
+- [[Web development]]
 - [[Design]]
-- 
+- [[Computer network]]

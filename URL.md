@@ -1,0 +1,1 @@
+URLs are [[URI|URIs]] used mostly to represent web addresses, making it the most common type of [[URI|URI]]. When URLs are used to search for a website on the internet, the website uses a [[Domain Name System|DNS]] to parse it to a IP address, establishes a connection with the server, sends the request, receive and process the response and render it back for the user.
