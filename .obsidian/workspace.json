@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -174,6 +174,10 @@
   },
   "active": "c4c08f64d7420470",
   "lastOpenFiles": [
+    "Notes.md",
+    "DS/Linked List/Linked List in Java.md",
+    "DS/Linked List/Linked List in C++.md",
+    "TODO.md",
     "NoSQL.md",
     "SQL.md",
     "Database.md",
@@ -186,11 +190,9 @@
     "URI.md",
     "HTTP.md",
     "Web development.md",
-    "Notes.md",
     "Enterprise Governance of Information and Related Technologies.md",
     "Data structures.md",
     "Front-end.md",
-    "DS/Linked List/Linked List in Java.md",
     "README.md",
     "Design.md",
     "Algorithms.md",
@@ -198,11 +200,9 @@
     "UML Class Diagram Relationships.md",
     "UML.md",
     "Pointer.md",
-    "DS/Linked List/Linked List in C++.md",
     "DS/Linked List",
     "Algorithms",
     "DS",
-    "Algorithms/Binary Search.md",
     "images/aggregation-arrow-example.png",
     "images/realization-arrow-example.png",
     "images/composition-arrow-example.png",
