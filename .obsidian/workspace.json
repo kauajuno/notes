@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4df751dd0f3b16b5",
+        "id": "bc9eb70749e7468b",
         "type": "tabs",
         "children": [
           {
-            "id": "c4c08f64d7420470",
+            "id": "df5ddbf84af32b51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17062cd6e60be374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "URI.md",
+                "file": "JavaScript functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "a9197e37bd44f26b",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "JavaScript functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "JavaScript functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "JavaScript functions.md"
               }
             }
           },
@@ -172,34 +160,41 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c4c08f64d7420470",
+  "active": "df5ddbf84af32b51",
   "lastOpenFiles": [
-    "Notes.md",
-    "DS/Linked List/Linked List in Java.md",
-    "DS/Linked List/Linked List in C++.md",
+    "Programming Languages/JavaScript/JavaScript closures.md",
+    "JavaScript functions.md",
+    "Programming Languages/JavaScript/JavaScript.md",
     "TODO.md",
-    "NoSQL.md",
-    "SQL.md",
-    "Database.md",
-    "SQL basics.md",
-    "SQL types.md",
-    "Back-end.md",
-    "Computer network.md",
-    "API.md",
-    "URL.md",
-    "URI.md",
-    "HTTP.md",
-    "Web development.md",
-    "Enterprise Governance of Information and Related Technologies.md",
-    "Data structures.md",
-    "Front-end.md",
-    "README.md",
-    "Design.md",
-    "Algorithms.md",
+    "JavaScript events.md",
+    "Programming Languages/JavaScript/JavaScript variables.md",
+    "Programming Languages/JavaScript/JavaScript spread operator.md",
     "Style Guide.md",
+    "Programming Languages/JavaScript/JavaScript method chaining.md",
+    "Computer Networks/URI.md",
+    "DS/Linked List.md",
+    "Computer Networks/HTTP Requests.md",
+    "Computer Networks/HTTP.md",
+    "API.md",
+    "Computer Networks",
+    "Notes.md",
+    "Back-end.md",
+    "Computer Networks/Computer network.md",
     "UML Class Diagram Relationships.md",
-    "UML.md",
+    "README.md",
+    "DS/Data structures.md",
+    "COBIT.md",
+    "Database/Database.md",
+    "Database/NoSQL",
+    "Database/SQL",
+    "Database",
+    "Database/SQL/SQL.md",
+    "Computer Networks/URL.md",
     "Pointer.md",
+    "UML Class Diagram.md",
+    "Programming Languages/Java",
+    "Programming Languages/JavaScript",
+    "Programming Languages",
     "DS/Linked List",
     "Algorithms",
     "DS",
@@ -208,7 +203,6 @@
     "images/composition-arrow-example.png",
     "images/association-arrow-example.png",
     "images/generalization-arrow-example.png",
-    "images/dependency-arrow-example.png",
-    "images"
+    "images/dependency-arrow-example.png"
   ]
 }

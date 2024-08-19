@@ -6,4 +6,5 @@ Design got to be one of the hardest words to define without having to think too 
 - [[Graphic Design]]
 - [[UX Design]]
 - [[UI Design]]
+- [[Software Design]]
 - 
