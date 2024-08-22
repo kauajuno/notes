@@ -11,5 +11,5 @@ That's it, I hope that this BoK is useful for you!
 # How to use properly
 
 - Download [Obsidian](https://obsidian.md/).
-- Download this repo.
+- `git clone` this repository in some folder.
 - Open this folder as a vault on Obsidian.
