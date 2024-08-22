@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript functions.md",
+                "file": "Programming Languages/JavaScript/JavaScript method chaining.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript functions.md",
+                "file": "Programming Languages/JavaScript/JavaScript method chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript functions.md",
+                "file": "Programming Languages/JavaScript/JavaScript method chaining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript functions.md"
+                "file": "Programming Languages/JavaScript/JavaScript method chaining.md"
               }
             }
           },
@@ -162,36 +162,37 @@
   },
   "active": "df5ddbf84af32b51",
   "lastOpenFiles": [
-    "Programming Languages/JavaScript/JavaScript closures.md",
-    "JavaScript functions.md",
+    "UML Class Diagram Relationships.md",
+    "JavaScript maps.md",
     "Programming Languages/JavaScript/JavaScript.md",
+    "Programming Languages/JavaScript/JavaScript functions.md",
+    "Programming Languages/JavaScript/JavaScript classes.md",
+    "Programming Languages/JavaScript/JavaScript interfaces.md",
+    "Object-Oriented Programming.md",
+    "Programming Languages/JavaScript/JavaScript inheritance.md",
+    "Programming Languages/JavaScript/JavaScript method chaining.md",
     "TODO.md",
-    "JavaScript events.md",
+    "API.md",
+    "Untitled.canvas",
+    "Database/SQL/SQL.md",
+    "Programming Languages/JavaScript/JavaScript events.md",
+    "Programming Languages/JavaScript/JavaScript closures.md",
     "Programming Languages/JavaScript/JavaScript variables.md",
     "Programming Languages/JavaScript/JavaScript spread operator.md",
     "Style Guide.md",
-    "Programming Languages/JavaScript/JavaScript method chaining.md",
     "Computer Networks/URI.md",
     "DS/Linked List.md",
     "Computer Networks/HTTP Requests.md",
     "Computer Networks/HTTP.md",
-    "API.md",
     "Computer Networks",
     "Notes.md",
     "Back-end.md",
     "Computer Networks/Computer network.md",
-    "UML Class Diagram Relationships.md",
     "README.md",
     "DS/Data structures.md",
-    "COBIT.md",
-    "Database/Database.md",
     "Database/NoSQL",
     "Database/SQL",
     "Database",
-    "Database/SQL/SQL.md",
-    "Computer Networks/URL.md",
-    "Pointer.md",
-    "UML Class Diagram.md",
     "Programming Languages/Java",
     "Programming Languages/JavaScript",
     "Programming Languages",

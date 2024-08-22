@@ -11,6 +11,8 @@ Get to know more about JavaScript:
 
 - [[JavaScript variables]]
 - [[JavaScript functions]]
+- [[JavaScript classes]]
+- [[JavaScript maps]]
 - [[JavaScript events]]
 - [[JavaScript closures]]
 - [[JavaScript method chaining]]

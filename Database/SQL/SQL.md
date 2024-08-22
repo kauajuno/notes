@@ -2,7 +2,7 @@ SQL stands for Structured Query Language. It's a specialized language designed f
 
 # Is SQL a programming language?
 
-This is often the first question that comes to mind when we refer to SQL as a language. It kind of is and kind of isn't, it's hard to define. The fact is that it would be more accurate to describe it as a domain-specific language, as it can only be used to manipulate data in databases and won't be doing anything besides that like other general-purpose programming languages such as [[Python]], [[Java]], [[C++]], etc.
+This is often the first question that comes to mind when we refer to SQL as a language. It kind of is and kind of isn't, it's hard to define. The fact is that it would be more accurate to describe it as a domain-specific language, as it can only be used to manipulate data in databases and won't be doing anything besides that like other general-purpose programming languages such as Python, Java, C++, etc.
 
 # Is SQL the same for every [[DBMS]]?
 

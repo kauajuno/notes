@@ -1,6 +1,8 @@
 sql comparisons with null always end up in null
 custom JS events
 
+rafael gratta
+
 Dribbble
 Behance
 Awwwards
