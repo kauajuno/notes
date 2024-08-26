@@ -152,7 +152,3 @@ class Calculator {
 
 console.log(Calculator.subtract(8, 5)); // 3
 ```
-
-# Other related topics
-
-- [[JavaScript inheritance]]: inheritance is a principle of [[Object-Oriented Programming|OOP]] that allow classes to inherit properties and methods from other classes.

@@ -1,9 +1,5 @@
-Web development is a subset of the software development that refers to the process of creating, building, and maintaining websites or web applications that run on a web browser. Web development is a broad concept, but most of it can be summarized into two more specific terms.
+Web development is a subset of the software development that refers to the process of creating, building, and maintaining websites or web applications that run on a web browser. Web development is a broad concept, but most of it can be summarized into two more specific terms: front-end and back-end.
 
-# [[Front-end]]
+[[Front-end]] is all about what is being displayed to the user. The layout, the colors, the elements on the screen, all of that is what matters to the front-end development. [[Back-end]], on the other hand, is all about what is not being displayed to the user, but is essential for things to work as expected to provide the functionality of the software. Server-side logic, data storage and management, security, all of those are back-end concerns.
 
-Front-end is all about what is being displayed to the user. The layout, the colors, the elements on the screen, all of that is what matters to the front-end development.
-
-# [[Back-end]]
-
-Back-end is all about what is not being displayed to the user, but is essential for things to work as expected to provide the functionality of the software. Server-side logic, data storage and management, security, all of those are back-end concerns.
+Of course is definitely not that simple, both of these topics can be detailed and scrutinized into multiple other topics, and there's even the bridge between these two, the [[API|APIs]].

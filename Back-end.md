@@ -2,7 +2,6 @@ Let's keep it simple: back-end is what happens behind the curtains to keep the w
 
 The following topics are the most important topics involving back-end:
 
-- [[API]]
 - [[Server]]
 - [[Database]]
 - 

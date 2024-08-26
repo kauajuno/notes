@@ -1,0 +1,3 @@
+Asynchronous programming in JavaScript is a tough topic to deal with for newcomers, but we'll crack it soon enough.
+
+JavaScript is single-threaded, which basically means it can do one task at a time. With this simple statement comes a big problem: how will it be possible to deal with data that takes time to get without freezing the whole application? Through asynchronous programming, of course. In this concept, the program can keep executing other tasks while one of them is not ready, and when it gets ready it is notified through a

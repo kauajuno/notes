@@ -17,6 +17,8 @@ This is probably nothing new to someone who's already familiarized with programm
 
 The easier way of implementing method chaining is with [[JavaScript classes|classes]]. Let's suppose we'd like to build a calculator class where we pass a number as a parameter and then we can invoke operations on it until we finally want to get the result.
 
+
+
 ```js
 class Calculator {
   constructor(val = 0) {
@@ -108,3 +110,4 @@ const alsoRes = calculatorFunction(15)
 
 console.log(alsoRes); // 12
 ```
+

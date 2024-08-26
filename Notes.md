@@ -7,6 +7,8 @@
 - [[Design]]
 - [[Computer network]]
 - [[Programming languages]]
+- [[English]]
+- 
 
 ---
 #menu

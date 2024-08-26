@@ -7,4 +7,5 @@ The following topics are the most important concepts involving front-end:
 - [[HTML]]
 - [[CSS]]
 - [[JavaScript]]
-- 
+- [[Web APIs]]
+- [[Front-end frameworks]]

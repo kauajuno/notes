@@ -1,0 +1,1 @@
+HyperText Markup Language is the language used to define documents seen in a web browser when navigating the internet. It serves as a skeleton to structure and define elements in the page.

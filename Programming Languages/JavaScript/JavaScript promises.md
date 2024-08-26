@@ -1,0 +1,1 @@
+A promise is an object in JavaScript that represents the eventual completion or failure of an asynchronous operation. 
