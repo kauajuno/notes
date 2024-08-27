@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/Front-end frameworks/React/React conditional rendering.md",
+                "file": "Front-end/Front-end frameworks/React/React event handlers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e92cf55b8b40071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React state.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parenthes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/Front-end frameworks/React/React conditional rendering.md",
+                "file": "React state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/Front-end frameworks/React/React conditional rendering.md",
+                "file": "React state.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/Front-end frameworks/React/React conditional rendering.md"
+                "file": "React state.md"
               }
             }
           },
@@ -186,13 +197,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "30abc6784004ddeb",
+  "active": "3e92cf55b8b40071",
   "lastOpenFiles": [
+    "Front-end/Front-end frameworks/React/React.md",
+    "React state.md",
+    "Front-end/Front-end frameworks/React/React array manipulation.md",
+    "Front-end/Front-end frameworks/React/React event handlers.md",
+    "Front-end/Front-end frameworks/React/React conditional rendering.md",
     "Front-end/Front-end frameworks/React/React components.md",
     "Programming Languages/JavaScript/JavaScript functions.md",
-    "Front-end/Front-end frameworks/React/React conditional rendering.md",
     "Pasted image 20240826211834.png",
-    "Front-end/Front-end frameworks/React/React.md",
     "Front-end/Front-end frameworks/React/React very first step.md",
     "Front-end/Front-end frameworks/React/React props.md",
     "Front-end/Front-end frameworks/React/React importing and exporting.md",
@@ -216,8 +230,6 @@
     "Programming Languages/JavaScript/JavaScript variables.md",
     "Programming Languages/JavaScript/JavaScript asynchronous programming.md",
     "Programming Languages/JavaScript/JavaScript promises.md",
-    "Web APIs/Web APIs.md",
-    "Web APIs/DOM.md",
     "Web APIs",
     "Computer Networks",
     "Database/NoSQL",

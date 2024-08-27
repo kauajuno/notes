@@ -60,10 +60,28 @@ In a similar analogy to curly brackets being windows to JavaScript, it's possibl
 
 ```jsx
 function Item({ name, completed }) {
-  return <li>{
-        completed ?
-        (<> {name} <span style={{color:"green"}}> [[COMPLETED]]</span></>)
-        : name
-    }</li>;
+  return (
+    <li>
+      {completed ? (
+        <>
+          {name} <span style={{ color: "green" }}> [[COMPLETED]]</span>
+        </>
+      ) : (
+        name
+      )}
+    </li>
+  );
+}```
+
+It's possible to simplify it EVEN more through the logical operator `&&`:
+
+```jsx
+function Item({ name, completed }) {
+  return (
+    <li>
+      {name}
+      {completed && <span style={{ color: "green" }}> [[COMPLETED]]</span>}
+    </li>
+  );
 }
 ```
