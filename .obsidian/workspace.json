@@ -23,8 +23,12 @@
             "id": "30abc6784004ddeb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Front-end/Front-end frameworks/React/React conditional rendering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -69,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "parenthes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Front-end/Front-end frameworks/React/React conditional rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Front-end/Front-end frameworks/React/React conditional rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Front-end/Front-end frameworks/React/React conditional rendering.md"
               }
             }
           },
@@ -183,15 +188,16 @@
   },
   "active": "30abc6784004ddeb",
   "lastOpenFiles": [
-    "Front-end/Front-end frameworks/React/React.md",
-    "Front-end/Front-end frameworks/React/React conditional rendering.md",
-    "Front-end/Front-end frameworks/React/React props.md",
+    "Front-end/Front-end frameworks/React/React components.md",
     "Programming Languages/JavaScript/JavaScript functions.md",
+    "Front-end/Front-end frameworks/React/React conditional rendering.md",
+    "Pasted image 20240826211834.png",
+    "Front-end/Front-end frameworks/React/React.md",
+    "Front-end/Front-end frameworks/React/React very first step.md",
+    "Front-end/Front-end frameworks/React/React props.md",
     "Front-end/Front-end frameworks/React/React importing and exporting.md",
     "Front-end/Front-end frameworks/React/React using JavaScript in JSX.md",
     "JSX.md",
-    "Front-end/Front-end frameworks/React/React very first step.md",
-    "Front-end/Front-end frameworks/React/React components.md",
     "Front-end/Front-end frameworks/React",
     "Front-end/Front-end frameworks/Front-end frameworks.md",
     "Front-end/Front-end frameworks",
@@ -212,7 +218,6 @@
     "Programming Languages/JavaScript/JavaScript promises.md",
     "Web APIs/Web APIs.md",
     "Web APIs/DOM.md",
-    "Enterprise Governance of Information and Related Technologies.md",
     "Web APIs",
     "Computer Networks",
     "Database/NoSQL",

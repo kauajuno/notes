@@ -81,7 +81,7 @@ IIFEs are function that, as the name suggests, are invoked immediately up on its
 
 # Parameters
 
-Passing a parameter in JavaScript is very simple. As saw above, you define the parameters of a function between the parenthesis.
+Passing a parameter in JavaScript is very simple. As saw above, you define the parameters of a function between the parentheses.
 
 ```js
 function greet(name){

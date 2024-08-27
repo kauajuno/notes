@@ -23,6 +23,6 @@ Alright, this is a component, cool. But this is very, very strange if this is yo
 To create components, there are three essential things that shall be done:
 
 - Function: there's gotta be a function representing the component, it's mandatory for the name of the function to be pascal cased.
-- Return: the function gotta return some markup representing the content of the component. If the return statement returns multiple lines, they have to be wrapped in parenthesis, otherwise only the first line will be returned.
+- Return: the function gotta return some markup representing the content of the component. If the return statement returns multiple lines, they have to be wrapped in parentheses, otherwise only the first line will be returned.
 - Export: the component gotta be exported so it can be used as part of other component or directly rendered.
 
