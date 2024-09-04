@@ -10,4 +10,5 @@ React is a widely used component-based front-end framework using [[JavaScript]].
 - [[React array manipulation]]
 - [[React event handlers]]
 - [[React state]]
+- [[React renders]]
 - 

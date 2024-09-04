@@ -20,6 +20,19 @@ Web Design Weekly
 "Designing Interfaces" by Jenifer Tidwell
 Online courses and tutorials on platforms like Udemy
 
+seminario dia 11 materia da evellin
+
+- algebra,
+    
+- geometry,
+    
+- trigonometry,
+    
+- exponents,
+    
+- logarithms, and
+    
+- limits
 # Amanhã
 
 promises

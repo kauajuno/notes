@@ -23,3 +23,5 @@ Get to know more about JavaScript:
 - [[JavaScript method chaining]]
 - [[JavaScript spread operator]]
 - [[JSON]]
+- [[JavaScript asynchronous programming]] WIP
+- [[JavaScript promises]] WIP

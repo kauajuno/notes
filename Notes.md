@@ -8,6 +8,7 @@
 - [[Computer network]]
 - [[Programming languages]]
 - [[English]]
+- [[Math]]
 - 
 
 ---
