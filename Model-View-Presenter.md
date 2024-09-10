@@ -1,0 +1,1 @@
+The MVP architectural pattern is very similar to the [[Model-View-Controller|MVC]], what differs the Presenter component from the Controller component is that the Presenter also handles navigation flows through the view, making the View component more passive.

@@ -1,0 +1,3 @@
+Spring Beans are objects that are instantiated, configured, and managed by the Spring framework. They form the backbone of a Spring application and are defined in the Spring configuration file or annotated with specific annotations.
+
+These Beans have a lifecycle, meaning that at some point they're created, do something and die at some point. The management of that lifecycle is done by the Spring IoC container.

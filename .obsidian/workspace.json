@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/CSS/CSS pseudo-classes and pseudo-elements.md",
+                "file": "Spring Beans.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14310ccacac44dea",
+            "id": "b6bbd3aed23be33a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/CSS/CSS selectors.md",
+                "file": "Design/BJ Fogg's behavior model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/CSS/CSS selectors.md",
+                "file": "Spring Beans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/CSS/CSS selectors.md",
+                "file": "Spring Beans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/CSS/CSS selectors.md"
+                "file": "Spring Beans.md"
               }
             }
           },
@@ -173,35 +172,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "14310ccacac44dea",
+  "active": "df5ddbf84af32b51",
   "lastOpenFiles": [
-    "Front-end/CSS/CSS pseudo-classes and pseudo-elements.md",
-    "Front-end/CSS/CSS selectors.md",
-    "TODO.md",
-    "Front-end/CSS/CSS.md",
-    "Front-end/CSS/CSS grid.md",
-    "Front-end/CSS/CSS flexbox.md",
-    "Programming Languages/JavaScript/JavaScript method chaining.md",
-    "Programming Languages/JavaScript/JavaScript hoisting.md",
-    "Algorithms/Binary Search.md",
-    "Design.md",
-    "Programming Languages/JavaScript/JavaScript this.md",
-    "Programming Languages/JavaScript/JavaScript.md",
-    "TypeScript.md",
-    "Tailwind.md",
+    "Spring.md",
+    "Spring Beans.md",
+    "Spring Boot.md",
+    "Back-end frameworks.md",
+    "Back-end/Back-end.md",
     "Front-end/Front-end frameworks/Front-end frameworks.md",
-    "Pointer.md",
-    "Front-end/Front-end frameworks/React/React event handlers.md",
-    "Programming Languages/JavaScript/JavaScript classes.md",
     "Front-end/Front-end.md",
-    "Web development.md",
     "Notes.md",
-    "Front-end/HTML.md",
-    "Front-end/CSS",
-    "Math.md",
-    "README.md",
+    "Database/Database.md",
+    "Java records.md",
+    "Back-end",
+    "Programming Languages/Java/Java.md",
+    "Programming Languages/JavaScript/JavaScript.md",
+    "Programming Languages/Programming languages.md",
+    "Front-end/CSS/CSS.md",
+    "TypeScript.md",
+    "Nudge Theory.md",
+    "Programming Languages/JavaScript/JavaScript classes.md",
     "Front-end/Front-end frameworks/React/React state.md",
-    "Programming Languages/JavaScript/JSON.md",
+    "Front-end/Front-end frameworks/React/React.md",
+    "Front-end/Front-end frameworks/React/React renders.md",
+    "React Router.md",
+    "Design/BJ Fogg's behavior model.md",
+    "GitHub.md",
+    "Git.md",
+    "Git basics.md",
+    "Architectural patterns.md",
+    "Design",
+    "UI",
+    "Front-end/CSS",
     "Pasted image 20240826211834.png",
     "Front-end/Front-end frameworks/React",
     "Front-end/Front-end frameworks",
@@ -210,9 +212,6 @@
     "Web APIs",
     "Computer Networks",
     "Database/NoSQL",
-    "Database/SQL",
-    "Database",
-    "Programming Languages/Java",
     "images/aggregation-arrow-example.png",
     "images/realization-arrow-example.png",
     "images/composition-arrow-example.png",

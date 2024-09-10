@@ -1,0 +1,3 @@
+The MVVM pattern differs from the classic [[Model-View-Controller|MVC]] through the use of the ViewModel component, and it changes heavily how the other two components interact with the "central component".
+
+Here, the View component and the ViewModel are connected through data-binding, meaning that every change made to the View will reflect on the ViewModel without need for an update call. In the same sense, when the ViewModel updates the Model, any notification given from the Model to the ViewModel will reflect on the View. 
