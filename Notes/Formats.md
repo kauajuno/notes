@@ -1,0 +1,1 @@
+Formats can be specified within the `config/packages/api_platform.yaml` configuration file.
